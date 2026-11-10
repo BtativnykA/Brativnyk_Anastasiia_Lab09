@@ -6,3 +6,7 @@ __pycache__/
 echo "*.egg-info/" >> .gitignore
 echo "*.db" >> .gitignore*.egg-info/
 *.db
+*.egg-info/
+*.db
+*.prof
+.coverage
